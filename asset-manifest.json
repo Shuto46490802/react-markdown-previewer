@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/react-markdown-previewer/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/react-markdown-previewer/static/js/main.e717c413.chunk.js",
-    "main.js.map": "/react-markdown-previewer/static/js/main.e717c413.chunk.js.map",
-    "runtime-main.js": "/react-markdown-previewer/static/js/runtime-main.3fd8c4a3.js",
-    "runtime-main.js.map": "/react-markdown-previewer/static/js/runtime-main.3fd8c4a3.js.map",
-    "static/js/2.ba8cf962.chunk.js": "/react-markdown-previewer/static/js/2.ba8cf962.chunk.js",
-    "static/js/2.ba8cf962.chunk.js.map": "/react-markdown-previewer/static/js/2.ba8cf962.chunk.js.map",
-    "static/js/3.005b48ae.chunk.js": "/react-markdown-previewer/static/js/3.005b48ae.chunk.js",
-    "static/js/3.005b48ae.chunk.js.map": "/react-markdown-previewer/static/js/3.005b48ae.chunk.js.map",
+    "main.css": "/react-markdown-previewer/static/css/main.8b8008f5.chunk.css",
+    "main.js": "/react-markdown-previewer/static/js/main.5f172680.chunk.js",
+    "main.js.map": "/react-markdown-previewer/static/js/main.5f172680.chunk.js.map",
+    "runtime-main.js": "/react-markdown-previewer/static/js/runtime-main.d931317d.js",
+    "runtime-main.js.map": "/react-markdown-previewer/static/js/runtime-main.d931317d.js.map",
+    "static/js/2.f0489303.chunk.js": "/react-markdown-previewer/static/js/2.f0489303.chunk.js",
+    "static/js/2.f0489303.chunk.js.map": "/react-markdown-previewer/static/js/2.f0489303.chunk.js.map",
+    "static/js/3.2c6306da.chunk.js": "/react-markdown-previewer/static/js/3.2c6306da.chunk.js",
+    "static/js/3.2c6306da.chunk.js.map": "/react-markdown-previewer/static/js/3.2c6306da.chunk.js.map",
     "index.html": "/react-markdown-previewer/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/react-markdown-previewer/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.ba8cf962.chunk.js.LICENSE.txt": "/react-markdown-previewer/static/js/2.ba8cf962.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-markdown-previewer/static/media/logo.6ce24c58.svg"
+    "static/css/main.8b8008f5.chunk.css.map": "/react-markdown-previewer/static/css/main.8b8008f5.chunk.css.map",
+    "static/js/2.f0489303.chunk.js.LICENSE.txt": "/react-markdown-previewer/static/js/2.f0489303.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3fd8c4a3.js",
-    "static/js/2.ba8cf962.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.e717c413.chunk.js"
+    "static/js/runtime-main.d931317d.js",
+    "static/js/2.f0489303.chunk.js",
+    "static/css/main.8b8008f5.chunk.css",
+    "static/js/main.5f172680.chunk.js"
   ]
 }
