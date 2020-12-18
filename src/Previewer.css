@@ -1,0 +1,13 @@
+#previewer-wrapper{
+    width:800px;
+    max-width:100%;
+    margin-bottom:3em;
+    transition-duration:.3s;
+}
+#previewer{
+    background-color:#dbe2f0;
+    border:1px solid black;
+    width:98%;
+    box-shadow:1px 1px 10px 2px #172136;
+    padding:0 .5em 0 .5em;
+}
