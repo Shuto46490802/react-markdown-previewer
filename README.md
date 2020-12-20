@@ -1,3 +1,13 @@
+# Built With 
+
+* [React.js](https://github.com/facebook/create-react-app)
+* [React Markdown](https://github.com/remarkjs/react-markdown)
+* [Font Awesome](https://fontawesome.com/)
+
+# Demo
+
+View project at: [http://Shuto46490802.github.io/react-markdown-previewer](http://Shuto46490802.github.io/react-markdown-previewer)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
